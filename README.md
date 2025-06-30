@@ -37,10 +37,6 @@
 
 ### 📈 GitHub Stats
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ahujatarang&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="ahujatarang" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahujatarang&show_icons=true&theme=default&hide_title=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarang&layout=compact&theme=default&hide_title=true&langs_count=6" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahujatarang&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="ahujatarang" /></p>
