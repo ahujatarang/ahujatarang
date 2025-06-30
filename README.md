@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahujatarang"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ahujatarang.work@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:ahujatarang@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -37,9 +37,10 @@
 
 ### 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarangahuja&show_icons=true&theme=default&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahujatarang&show_icons=true&theme=default&hide_title=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarangahuja&layout=compact&theme=default&hide_title=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarang&layout=compact&theme=default&hide_title=true&langs_count=6" />
 </p>
