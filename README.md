@@ -60,7 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahujatarang&show_icons=true&theme=dark&hide_title=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarang&layout=compact&theme=dark&hide_title=true&langs_count=6" height="180"/>
 </p>
 
 
