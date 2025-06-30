@@ -57,12 +57,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahujatarang&show_icons=true&theme=dark&hide_title=true" />
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarang&layout=compact&theme=dark&hide_title=true&langs_count=6" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=ahujatarang&show_icons=true&theme=dark&hide_title=true" alt="anushka23g" />
-</p>
+
