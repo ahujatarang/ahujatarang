@@ -1,48 +1,45 @@
 <h2 align="center">Hey, I'm Tarang 👋</h2>
 <p align="center">
-  A curious developer who enjoys solving real-world problems through logic, code, and creative thinking.
+  Curious developer • Problem solver • System thinker
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahujatarang"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ahujatarang.work@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- I enjoy building things that involve **algorithms, problem-solving, and clean system design**
-- I care more about **understanding and applying concepts** than memorizing boilerplate
-- I love simplifying complex ideas, automating repetitive tasks, and making code that works smoothly
-- Sometimes you’ll find me solving logic puzzles on **LeetCode or HackerRank**, just for fun
+- I enjoy building useful systems and solving problems with logic and creativity.
+- More interested in **how to think** than memorizing what to type.
+- Drawn to **math-heavy and logic-driven** challenges.
+- Comfortable with Python, Django, and the habit of figuring things out fast.
+- I like simplifying complex ideas and designing clean, effective solutions.
 
 ---
 
-### 🛠 Tech I'm Comfortable With
+### 🔧 Tech Stack
 
-- **Languages** – Python, JavaScript, SQL
-- **Frameworks** – Django, FastAPI, React
-- **Tools** – Git, Pandas, NumPy, Matplotlib
-- **Concepts** – Metaheuristic Algorithms, ML basics, Prompt Engineering (learning)
-
----
-
-### 📫 Reach Me
-
-Feel free to connect or collaborate:  
-📬 tarangahuja.work@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/tarangahuja)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</p>
 
 ---
 
-![Tarang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahujatarang&show_icons=true&theme=default&hide_rank=true)
-<!--
-**ahujatarang/ahujatarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarangahuja&show_icons=true&theme=default&hide_title=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarangahuja&layout=compact&theme=default&hide_title=true&langs_count=6" />
+</p>
