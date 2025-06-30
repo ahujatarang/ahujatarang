@@ -59,6 +59,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ahujatarang&show_icons=true&theme=dark&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarang&layout=compact&theme=dark&hide_title=true&langs_count=6" />
 </p>
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahujatarang&layout=compact&theme=dark&hide_title=true&langs_count=6" />
